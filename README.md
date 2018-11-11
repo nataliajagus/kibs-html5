@@ -7,3 +7,5 @@ Simple one page website.
 Technologies used: HTML5, CSS3, JavaScript, jQuery
 
 PSD by ThemeXpert
+
+Online version: https://nataliajagus.github.io/kibs-html5/
